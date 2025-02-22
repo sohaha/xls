@@ -1,6 +1,6 @@
 # xls
 
-[![GoDoc](https://godoc.org/github.com/extrame/xls?status.svg)](https://godoc.org/github.com/extrame/xls)
+[![GoDoc](https://godoc.org/github.com/sohaha/goxls?status.svg)](https://godoc.org/github.com/sohaha/goxls)
 
 Pure Golang xls library writen by [Rongshu Tech (chinese)](http://www.rongshu.tech), based on libxls. 
 
